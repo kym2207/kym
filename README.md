@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 김유민 Pages
 
 You can use the [editor on GitHub](https://github.com/kym2207/kym/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
